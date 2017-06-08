@@ -1,3 +1,2 @@
 node_modules/
-public/scripts/app.js
-public/styles/style.css
+public/**/*
